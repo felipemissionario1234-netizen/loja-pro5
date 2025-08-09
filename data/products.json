@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Premium Masculina",
+    "price": 79.9,
+    "image": "/products/camiseta1.jpg",
+    "category": "camisetas",
+    "description": "Camiseta premium 100% algodão, confortável e estilosa."
+  },
+  {
+    "id": 2,
+    "name": "Camiseta Feminina Oversize",
+    "price": 89.9,
+    "image": "/products/camiseta2.jpg",
+    "category": "camisetas",
+    "description": "Modelagem oversized com tecido macio."
+  },
+  {
+    "id": 3,
+    "name": "Tênis Esportivo Confort",
+    "price": 249.9,
+    "image": "/products/tenis1.jpg",
+    "category": "tenis",
+    "description": "Leve, ventilado e com ótimo amortecimento."
+  },
+  {
+    "id": 4,
+    "name": "Tênis Casual Urbano",
+    "price": 219.9,
+    "image": "/products/tenis2.jpg",
+    "category": "tenis",
+    "description": "Estilo urbano para o dia a dia."
+  },
+  {
+    "id": 5,
+    "name": "Fone Bluetooth Bass+",
+    "price": 159.9,
+    "image": "/products/fone1.jpg",
+    "category": "eletronicos",
+    "description": "Bluetooth 5.3, graves reforçados e 20h de bateria."
+  },
+  {
+    "id": 6,
+    "name": "Caixa de Som Mini",
+    "price": 129.9,
+    "image": "/products/caixa1.jpg",
+    "category": "eletronicos",
+    "description": "Portátil, estéreo, resistente a respingos."
+  },
+  {
+    "id": 7,
+    "name": "Mochila City 25L",
+    "price": 139.9,
+    "image": "/products/mochila1.jpg",
+    "category": "acessorios",
+    "description": "Bolso para notebook e tecido resistente."
+  },
+  {
+    "id": 8,
+    "name": "Boné Classic Snapback",
+    "price": 69.9,
+    "image": "/products/bone1.jpg",
+    "category": "acessorios",
+    "description": "Ajustável e respirável."
+  },
+  {
+    "id": 9,
+    "name": "Garrafa Térmica 1L",
+    "price": 99.9,
+    "image": "/products/garrafa1.jpg",
+    "category": "casa",
+    "description": "Mantém gelado por 24h e quente por 12h."
+  },
+  {
+    "id": 10,
+    "name": "Luminária LED Touch",
+    "price": 89.9,
+    "image": "/products/luminaria1.jpg",
+    "category": "casa",
+    "description": "3 níveis de brilho, USB-C."
+  },
+  {
+    "id": 11,
+    "name": "Kit Skincare Diário",
+    "price": 119.9,
+    "image": "/products/skincare1.jpg",
+    "category": "beleza",
+    "description": "Limpeza, hidratação e proteção."
+  },
+  {
+    "id": 12,
+    "name": "Perfume Fresh 100ml",
+    "price": 149.9,
+    "image": "/products/perfume1.jpg",
+    "category": "beleza",
+    "description": "Notas cítricas e frescas, fixação prolongada."
+  }
+]
